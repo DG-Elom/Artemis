@@ -5,7 +5,6 @@
 
 	if (isset($_SESSION['login'])) {
 		$deco = '<a class="nav-link" href="logout.php">Déconnexion</a>';
-		# code...
 		$estCon = $_SESSION['prenom']." ".$_SESSION['nom'];
 	}
 	
