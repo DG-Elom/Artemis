@@ -36,7 +36,7 @@
 <body>
 	<div class="container">
 		<div class="jumbotron" id="jumb">
-			<h1 class="display-1"><center> <?php echo $titre; ?></center></h1>
+			<h1 class="display-2"><center> <?php echo $titre; ?></center></h1>
 		</div>
 	</div>
 	<div class="container">
